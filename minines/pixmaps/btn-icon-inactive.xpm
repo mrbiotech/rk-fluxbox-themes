@@ -1,0 +1,38 @@
+/* XPM */
+static char *btn_icon_inactive_png[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 8 1 ",
+"  c black",
+". c #131313",
+"X c #10151B",
+"o c #343437",
+"O c #343438",
+"+ c #505053",
+"@ c #505054",
+"# c gray50",
+/* pixels */
+"+oo@OOOOOOOOOOOOOOOOOOO@",
+"#++OO                 OO",
+"#++O ................. #",
+"#++O ..................#",
+"#### oooooooooooooooooo@",
+"+ooX                   @",
+"+XoX                   @",
+"+o+X                   @",
+"+ooX                   @",
+"+ooX                   @",
+"+XoX                   @",
+"+o+X                   @",
+"+ooX                   @",
+"+ooX                   @",
+"+XoX                   @",
+"+o+X                   @",
+"+ooX                   @",
+"+ooX                   @",
+"+XoX                   @",
+"+o+X                   @",
+"+ooX                   @",
+"+ooo@                 @o",
+"+oooo@@@@@@@@@@@@@@@@@oo",
+"+ooooooooooooooooooooooo"
+};

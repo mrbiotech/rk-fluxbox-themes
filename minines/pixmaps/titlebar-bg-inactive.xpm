@@ -1,0 +1,33 @@
+/* XPM */
+static char *titlebar_bg_inactive_png[] = {
+/* columns rows colors chars-per-pixel */
+"2 24 3 1 ",
+"  c #343437",
+". c #505053",
+"X c gray50",
+/* pixels */
+"  ",
+"..",
+"..",
+"..",
+"XX",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  "
+};
