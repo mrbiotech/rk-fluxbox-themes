@@ -1,0 +1,38 @@
+/* XPM */
+static char *btn_max_i_png[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 8 1 ",
+"  c #24293A",
+". c #2B4318",
+"X c #3C7918",
+"o c #34466F",
+"O c #38637F",
+"+ c #579228",
+"@ c #99E550",
+"# c #639BFF",
+/* pixels */
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"@@@@@@@@@@@@@@@@@@@@@@@@",
+"++++++++++++++++++++++++",
+"++++++++++++++++++++++++",
+"++++++............++++++",
+"XXXXX.@@@@@@@@@@@@.XXXXX",
+"XXXX.@XXXXXXXXXXXX@.XXXX",
+"XXXX.@X@.........X@.XXXX",
+"XXXX.@XX@........X@.XXXX",
+"XXXX.@XXX@.......X@.XXXX",
+".....X....@.......X.....",
+"OOOO o###OO#     #o OOOO",
+"oooo Ooooooo#    oO oooo",
+"oooo Oooooooo#   oO oooo",
+"oooo Ooooooooo#  oO oooo",
+"oooo Oooooooooo# oO oooo",
+"oooo Ooooooooooo#oO oooo",
+"oooo OooooooooooooO oooo",
+"ooooo OOOOOOOOOOOO ooooo",
+"oooooo            oooooo",
+"oooooooooooooooooooooooo",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"########################",
+"oooooooooooooooooooooooo"
+};
