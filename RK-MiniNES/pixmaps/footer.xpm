@@ -1,0 +1,15 @@
+/* XPM */
+static char *footer_png[] = {
+/* columns rows colors chars-per-pixel */
+"2 6 3 1 ",
+"  c black",
+". c gray15",
+"X c #68686F",
+/* pixels */
+"  ",
+"..",
+"XX",
+"  ",
+"  ",
+"  "
+};

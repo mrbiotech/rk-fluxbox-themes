@@ -1,0 +1,16 @@
+/* XPM */
+static char *grip_inactive_png[] = {
+/* columns rows colors chars-per-pixel */
+"11 6 4 1 ",
+"  c #10151B",
+". c #343437",
+"X c #505053",
+"o c gray50",
+/* pixels */
+"X..........",
+"oXXXXXXXXX.",
+"oooooooooo ",
+"X......... ",
+"X......... ",
+"X......... "
+};

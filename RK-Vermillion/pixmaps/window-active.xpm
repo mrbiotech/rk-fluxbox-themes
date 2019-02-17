@@ -1,0 +1,36 @@
+/* XPM */
+static char *window_active[] = {
+/* columns rows colors chars-per-pixel */
+"3 24 6 1 ",
+"  c gray20",
+". c #491613",
+"X c #4A4238",
+"o c #8E312C",
+"O c #BE3933",
+"+ c #E67272",
+/* pixels */
+"+++",
+"OOO",
+"OoO",
+"OO+",
+"OOO",
+"OOO",
+"OOO",
+"OOO",
+"...",
+"OOO",
+"ooo",
+"ooo",
+"ooo",
+"ooo",
+"ooo",
+"ooo",
+"ooo",
+"ooo",
+"ooo",
+"ooo",
+"Xoo",
+"oOo",
+"ooo",
+"   "
+};
