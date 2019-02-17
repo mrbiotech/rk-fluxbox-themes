@@ -1,0 +1,38 @@
+/* XPM */
+static char *btn_unpin_a_xcf[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 8 1 ",
+"  c #192416",
+". c #292523",
+"X c #37502C",
+"o c #492141",
+"O c #842267",
+"+ c #66B923",
+"@ c #A2F501",
+"# c #BC1C9C",
+/* pixels */
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"O#######################",
+"O#######################",
+"O#######################",
+"O#######################",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOooooooooooOOOOOOO",
+"OOOOOOOo........oOOOOOOO",
+"OOOOOOOo.O####O.oOOOOOOO",
+"oooooooo.oooooo.oooooooo",
+"@@@@@@@X +@@@@+ X@@@@@@@",
+"+++++++X X++++X X+++++++",
+"+++++++X X++++X X+++++++",
+"+++++++X XXXXXX X+++++++",
+"+++++++X        X+++++++",
+"+++++++XXXXXXXXXX+++++++",
+"++++++++++++++++++++++++",
+"++++++++++++++++++++++++",
+"++++++++++++++++++++++++",
+"++++++++++++++++++++++++",
+"+@@@@@@@@@@@@@@@@@@@@@@@",
+"+@@@@@@@@@@@@@@@@@@@@@@@",
+"++++++++++++++++++++++++"
+};

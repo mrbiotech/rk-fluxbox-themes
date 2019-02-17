@@ -1,0 +1,16 @@
+/* XPM */
+static char *gripper_tall_a_xcf[] = {
+/* columns rows colors chars-per-pixel */
+"12 5 5 1 ",
+"  c #192416",
+". c #842267",
+"X c #66B923",
+"o c #A2F501",
+"O c #BC1C9C",
+/* pixels */
+"oooooooooooo",
+"oXXXXXXXXXXo",
+"            ",
+"OOOOOOOOOOOO",
+"O..........O"
+};

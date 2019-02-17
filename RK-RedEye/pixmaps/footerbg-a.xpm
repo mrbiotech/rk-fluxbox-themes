@@ -1,0 +1,15 @@
+/* XPM */
+static char *footerbg_a_xcf[] = {
+/* columns rows colors chars-per-pixel */
+"2 5 4 1 ",
+"  c #192416",
+". c #842267",
+"X c #66B923",
+"o c #BC1C9C",
+/* pixels */
+"XX",
+"XX",
+"  ",
+"oo",
+".."
+};

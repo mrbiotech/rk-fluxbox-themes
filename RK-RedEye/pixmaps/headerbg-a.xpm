@@ -1,0 +1,35 @@
+/* XPM */
+static char *headerbg_a_xcf[] = {
+/* columns rows colors chars-per-pixel */
+"2 24 5 1 ",
+"  c #492141",
+". c #842267",
+"X c #66B923",
+"o c #A2F501",
+"O c #BC1C9C",
+/* pixels */
+"..",
+"OO",
+"OO",
+"OO",
+"OO",
+"..",
+"..",
+"..",
+"..",
+"..",
+"  ",
+"oo",
+"XX",
+"XX",
+"XX",
+"XX",
+"XX",
+"XX",
+"XX",
+"XX",
+"XX",
+"oo",
+"oo",
+"XX"
+};
