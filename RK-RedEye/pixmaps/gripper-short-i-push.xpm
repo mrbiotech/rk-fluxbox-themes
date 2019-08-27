@@ -1,0 +1,12 @@
+/* XPM */
+static char *gripper_short_i_push_xcf[] = {
+/* columns rows colors chars-per-pixel */
+"12 3 3 1 ",
+"  c #0B120A",
+". c #3D112F",
+"X c #4A1C3F",
+/* pixels */
+"            ",
+"XXXXXXXXXXXX",
+"X..........X"
+};

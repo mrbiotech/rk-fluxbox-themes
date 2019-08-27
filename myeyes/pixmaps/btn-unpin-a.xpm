@@ -1,0 +1,38 @@
+/* XPM */
+static char *unpin_a_png[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 8 1 ",
+"  c #222034",
+". c #323C39",
+"X c #4B692F",
+"o c #3F3F74",
+"O c #6ABE30",
+"+ c #99E550",
+"@ c #5B6EE1",
+"# c #639BFF",
+/* pixels */
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"O+++++++++++++++++++++++",
+"O+++++++++++++++++++++++",
+"O+++++++++++++++++++++++",
+"O+++++++++++++++++++++++",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOXXXXXXXXXXOOOOOOO",
+"OOOOOOOX........XOOOOOOO",
+"OOOOOOOX.O++++O.XOOOOOOO",
+"XXXXXXXX.XXXXXX.XXXXXXXX",
+"#######o @####@ o#######",
+"@@@@@@@o o@@@@o o@@@@@@@",
+"@@@@@@@o o@@@@o o@@@@@@@",
+"@@@@@@@o oooooo o@@@@@@@",
+"@@@@@@@o        o@@@@@@@",
+"@@@@@@@oooooooooo@@@@@@@",
+"@@@@@@@@@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@@@@@@@@@",
+"@@@@@@@@@@@@@@@@@@@@@@@@",
+"@#######################",
+"@#######################",
+"@@@@@@@@@@@@@@@@@@@@@@@@"
+};

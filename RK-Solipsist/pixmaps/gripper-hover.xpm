@@ -1,0 +1,20 @@
+/* XPM */
+static char *gripper_hover_png[] = {
+/* columns rows colors chars-per-pixel */
+"21 8 6 1 ",
+"  c black",
+". c #1C2127",
+"X c #2D353E",
+"o c #454A4E",
+"O c #5E6266",
+"+ c #717478",
+/* pixels */
+"X................... ",
+"X.+++++++++++++++++. ",
+"X.OOOOOOOOOOOOOOOOO. ",
+"X.ooooooooooooooooo. ",
+"X................... ",
+"X................... ",
+"X.XXXXXXXXXXXXXXXXX. ",
+"X................... "
+};

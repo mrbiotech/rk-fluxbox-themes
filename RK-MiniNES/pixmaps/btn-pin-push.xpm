@@ -1,0 +1,37 @@
+/* XPM */
+static char *btn_pin_push_png[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 7 1 ",
+"  c black",
+". c gray15",
+"X c #212A38",
+"o c #68686F",
+"O c #A0A0A7",
+"+ c #A0A1A8",
+"@ c white",
+/* pixels */
+"oooooooXXXXXXXXXX@oooooo",
+"OOOOOOoX        X@OOOOOO",
+"OOOOOOoX .......X@OOOOOO",
+"OOOOOOoX .......X@OOOOOO",
+"@@@@@@@X oooooooX@@@@@@@",
+"oooooooX        X+oooooo",
+"oooooooX        X+oooooo",
+"oooooooX        X+oooooo",
+"oooooooX        X+oooooo",
+"oooooooX        X+oooooo",
+"oooooooX        X+oooooo",
+"oooooooX        X+oooooo",
+"oooooooXXXXXXXXXX+oooooo",
+"oooooooXo+++++++X+oooooo",
+"oooooooX+@@@@@@@X+oooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo",
+"oooooooooooooooooooooooo"
+};

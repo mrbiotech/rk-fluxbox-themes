@@ -1,0 +1,38 @@
+/* XPM */
+static char *btn_close_i_xcf[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 8 1 ",
+"  c #212818",
+". c #2F1128",
+"X c #54103E",
+"o c #3E4E24",
+"O c #555927",
+"+ c #641C52",
+"@ c #A2F501",
+"# c #BC1C9C",
+/* pixels */
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"#######################X",
+"+++++++++++++++++++++++X",
+"+++++++++++++++++++++++X",
+"++++++............+++++X",
+"XXXXX.############.XXXXX",
+"XXXX.#XXXXXXXXXXXX#.XXXX",
+"XXXX.#X..XXXXXX..X#.XXXX",
+"XXXX.#X#..XXXX..#X#.XXXX",
+"XXXX.#XX#..XX..#XX#.XXXX",
+".....X...#....#...X.....",
+"OOOO o@@OO    OO@@o OOOO",
+"oooo Ooooo    ooooO oooo",
+"oooo Oooo  @@  oooO oooo",
+"oooo Ooo  @oo@  ooO oooo",
+"oooo Oo  @oooo@  oO oooo",
+"oooo Oo@@oooooo@@oO oooo",
+"oooo OooooooooooooO oooo",
+"ooooo OOOOOOOOOOOO ooooo",
+"oooooo            oooooo",
+"oooooooooooooooooooooooo",
+"OOOOOOOOOOOOOOOOOOOOOOOo",
+"@@@@@@@@@@@@@@@@@@@@@@@o",
+"oooooooooooooooooooooooo"
+};

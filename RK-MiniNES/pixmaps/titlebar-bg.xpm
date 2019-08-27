@@ -1,0 +1,33 @@
+/* XPM */
+static char *titlebar_bg_png[] = {
+/* columns rows colors chars-per-pixel */
+"2 24 3 1 ",
+"  c #68686F",
+". c #A0A0A7",
+"X c white",
+/* pixels */
+"  ",
+"..",
+"..",
+"..",
+"XX",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  ",
+"  "
+};

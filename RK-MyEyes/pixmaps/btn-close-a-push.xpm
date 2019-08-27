@@ -1,0 +1,38 @@
+/* XPM */
+static char *btn_close_a_push_png[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 8 1 ",
+"  c #222034",
+". c #323C39",
+"X c #4B692F",
+"o c #3F3F74",
+"O c #6ABE30",
+"+ c #99E550",
+"@ c #5B6EE1",
+"# c #639BFF",
+/* pixels */
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"+++++++++++++++++++++++O",
+"+++++++++++++++++++++++O",
+"+++++++++++++++++++++++O",
+"++++++XXXXXXXXXXXX+++++O",
+"OOOOOX............XOOOOO",
+"OOOOX..X.X.X.X.X.X.XOOOO",
+"OOOOX.X++.X.X.X++..XOOOO",
+"OOOOX..OO+....+OO..XOOOO",
+"OOOOX...OO+..+OO...XOOOO",
+"XXXXX....XX++XX....XXXXX",
+"####o     ####     o####",
+"@@@@o     #@@#     o@@@@",
+"@@@@o    #@@@@#    o@@@@",
+"@@@@o   #@@  @@#   o@@@@",
+"@@@@o  #@@    @@#  o@@@@",
+"@@@@o  @@o o o @@o o@@@@",
+"@@@@o o o o o o o  o@@@@",
+"@@@@@o            o@@@@@",
+"@@@@@@oooooooooooo@@@@@@",
+"@@@@@@@@@@@@@@@@@@@@@@@@",
+"#######################@",
+"#######################@",
+"@@@@@@@@@@@@@@@@@@@@@@@@"
+};

@@ -1,0 +1,35 @@
+/* XPM */
+static char *headerbg_a_png[] = {
+/* columns rows colors chars-per-pixel */
+"2 24 5 1 ",
+"  c #4B692F",
+". c #6ABE30",
+"X c #99E550",
+"o c #5B6EE1",
+"O c #639BFF",
+/* pixels */
+"..",
+"XX",
+"XX",
+"XX",
+"XX",
+"..",
+"..",
+"..",
+"..",
+"..",
+"  ",
+"OO",
+"oo",
+"oo",
+"oo",
+"oo",
+"oo",
+"oo",
+"oo",
+"oo",
+"oo",
+"OO",
+"OO",
+"oo"
+};

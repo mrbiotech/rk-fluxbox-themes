@@ -1,0 +1,36 @@
+/* XPM */
+static char *pin_a_png[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 6 1 ",
+"  c #4B692F",
+". c #3F3F74",
+"X c #6ABE30",
+"o c #99E550",
+"O c #5B6EE1",
+"+ c #639BFF",
+/* pixels */
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"Xooooooooooooooooooooooo",
+"Xooooooooooooooooooooooo",
+"Xooooooooooooooooooooooo",
+"Xooooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXX          XXXXXXX",
+"XXXXXXX oooooooo XXXXXXX",
+"XXXXXXX oXXXXXXo XXXXXXX",
+"        X      X        ",
+"+++++++.O++++++O.+++++++",
+"OOOOOOO.+OOOOOO+.OOOOOOO",
+"OOOOOOO.+OOOOOO+.OOOOOOO",
+"OOOOOOO.+OOOOOO+.OOOOOOO",
+"OOOOOOO.++++++++.OOOOOOO",
+"OOOOOOO..........OOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"O+++++++++++++++++++++++",
+"O+++++++++++++++++++++++",
+"OOOOOOOOOOOOOOOOOOOOOOOO"
+};

@@ -1,0 +1,35 @@
+/* XPM */
+static char *footerbg_a_png[] = {
+/* columns rows colors chars-per-pixel */
+"2 24 5 1 ",
+"  c #222034",
+". c #6ABE30",
+"X c #99E550",
+"o c #5B6EE1",
+"O c None",
+/* pixels */
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"OO",
+"oo",
+"oo",
+"  ",
+"XX",
+".."
+};
