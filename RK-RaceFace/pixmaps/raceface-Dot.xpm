@@ -1,0 +1,37 @@
+/* XPM */
+static char *raceface_Dot_png[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 7 1 ",
+"  c #1B1F21",
+". c #2B2B45",
+"X c #283540",
+"o c #CF752B",
+"O c #FF8933",
+"+ c #F0B541",
+"@ c #FFEE83",
+/* pixels */
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXooooooooooooXXXXXX",
+"XXXXXoo@@@@@@@@@@ooXXXXX",
+"XXXXXoO++++++++++OoXXXXX",
+"XXXX.oOOOOOOOOOOOOo.XXXX",
+"XXXX.oOOOOOOOOOOOOo.XXXX",
+"XXXX.ooOOOOOOOOOOoo.XXXX",
+"XXXX.oooooooooooooo.XXXX",
+"XXXX.oooooooooooooo.XXXX",
+"XXXX.oooooooooooooo.XXXX",
+"XXXX.oooooooooooooo.XXXX",
+"XXXX.oooooooooooooo.XXXX",
+"XXXX.oooooooooooooo.XXXX",
+"XXXX.oOooooooooooOo.XXXX",
+"XXXX.ooOOOOOOOOOOoo.XXXX",
+"XXXX. oooooooooooo .XXXX",
+"XXXXX.            .XXXXX",
+"XXXXXX............XXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXX"
+};

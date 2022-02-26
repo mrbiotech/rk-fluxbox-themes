@@ -1,0 +1,12 @@
+/* XPM */
+static char *raceface_Grip_Act_png[] = {
+/* columns rows colors chars-per-pixel */
+"8 5 1 1 ",
+"  c #FF7594",
+/* pixels */
+"        ",
+"        ",
+"        ",
+"        ",
+"        "
+};
