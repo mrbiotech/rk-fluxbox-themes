@@ -1,0 +1,18 @@
+/* XPM */
+static const char *demo_window_handle_unfocus[] = {
+/* columns rows colors chars-per-pixel */
+"24 6 6 1 ",
+"  c #0D0C14",
+". c #13121D",
+"X c #191726",
+"o c #373545",
+"O c #414044",
+"+ c #666667",
+/* pixels */
+"oooooooooooooooooooooooo",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"........................",
+"                        ",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"++++++++++++++++++++++++"
+};

@@ -1,0 +1,18 @@
+/* XPM */
+static const char *demo_window_handle_focus[] = {
+/* columns rows colors chars-per-pixel */
+"24 6 6 1 ",
+"  c #708697",
+". c #A7B9C9",
+"X c #AFC1D5",
+"o c #B8C9E1",
+"O c #CEDBF1",
+"+ c #DEE8FB",
+/* pixels */
+"                        ",
+"........................",
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"oooooooooooooooooooooooo",
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"++++++++++++++++++++++++"
+};

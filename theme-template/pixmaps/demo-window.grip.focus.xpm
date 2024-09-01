@@ -1,0 +1,22 @@
+/* XPM */
+static const char *demo_window_grip_focus[] = {
+/* columns rows colors chars-per-pixel */
+"24 6 10 1 ",
+"  c #6D8392",
+". c #6B839A",
+"X c #758FAD",
+"o c #829BC1",
+"O c #A5B7C6",
+"+ c #ADBFD2",
+"@ c #A0B7DE",
+"# c #B6C7DE",
+"$ c #BACEF3",
+"% c #CAD8EE",
+/* pixels */
+"$$$$$$$$$$$$$$$$$$$$$$$$",
+"@%%%%%%%%%%%%%%%%%%%%%%@",
+"o######################o",
+"X++++++++++++++++++++++X",
+".OOOOOOOOOOOOOOOOOOOOOO.",
+"                        "
+};
