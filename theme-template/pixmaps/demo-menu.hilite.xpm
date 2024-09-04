@@ -1,5 +1,9 @@
 /* XPM */
+<<<<<<< HEAD
 static char *demo_menu_hilite[] = {
+=======
+static const char *demo_menu_hilite[] = {
+>>>>>>> 9c99ab4385b6a756cb9e569e2d5a065beb9ab118
 /* columns rows colors chars-per-pixel */
 "24 24 21 1 ",
 "  c #5B6EE1",

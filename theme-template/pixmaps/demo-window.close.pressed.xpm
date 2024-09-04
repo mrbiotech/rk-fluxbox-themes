@@ -1,5 +1,9 @@
 /* XPM */
+<<<<<<< HEAD
 static char *demo_window_close_pressed[] = {
+=======
+static const char *demo_window_close_pressed[] = {
+>>>>>>> 9c99ab4385b6a756cb9e569e2d5a065beb9ab118
 /* columns rows colors chars-per-pixel */
 "24 24 112 2 ",
 "   c #646F77",

@@ -1,5 +1,9 @@
 /* XPM */
+<<<<<<< HEAD
 static char *demo_slit[] = {
+=======
+static const char *demo_slit[] = {
+>>>>>>> 9c99ab4385b6a756cb9e569e2d5a065beb9ab118
 /* columns rows colors chars-per-pixel */
 "64 64 56 1 ",
 "  c black",

@@ -1,5 +1,9 @@
 /* XPM */
+<<<<<<< HEAD
 static char *demo_window_handle_unfocus[] = {
+=======
+static const char *demo_window_handle_unfocus[] = {
+>>>>>>> 9c99ab4385b6a756cb9e569e2d5a065beb9ab118
 /* columns rows colors chars-per-pixel */
 "24 6 6 1 ",
 "  c #0D0C14",

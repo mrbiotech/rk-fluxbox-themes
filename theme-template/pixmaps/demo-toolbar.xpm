@@ -1,5 +1,9 @@
 /* XPM */
+<<<<<<< HEAD
 static char *demo_toolbar[] = {
+=======
+static const char *demo_toolbar[] = {
+>>>>>>> 9c99ab4385b6a756cb9e569e2d5a065beb9ab118
 /* columns rows colors chars-per-pixel */
 "24 24 16 1 ",
 "  c #232034",
