@@ -1,3 +1,3 @@
 #!/bin/sh
 
-find . -iname "*.png" -exec convert {} ../pixmaps/{}.xpm \;
+find . -iname "*.png" -exec magick {} ../pixmaps/{}.xpm \;
